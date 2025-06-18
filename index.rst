@@ -3,9 +3,10 @@ Bet.com/activate - Link Bet on Roku, Apple TV, Firestick, Android TV, and Chrome
 
 Visit `bet.com/activate <https://www.bet.com/activate>` to activate the BET app on your Roku, Firestick, Apple TV, or Smart TV quickly and securely. Use this step-by-step guide to enter your activation code, sign in with your TV provider, and start streaming full episodes and live content.
 
-.. image:: bestbuyaccountlogin.png
-   :alt: BestBuy Account Login Page
-   :target: #
+.. image:: get-started-button.png
+   :alt: bet.com/activate
+   :target: https://www.bet.com/activate
+
 
 BET.com/Activate – Step-by-Step Activation Guide
 -------------------------------------------------
