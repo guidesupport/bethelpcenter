@@ -38,7 +38,7 @@ You can also access BET+ (BET Plus) on devices like Chromecast and mobile using 
 
 - Open the BET+ app on your mobile or streaming device.
 - Select **Sign In**.
-- Visit `https://www.bet.plus/activate <https://www.bet.plus/activate>`_.
+- Visit `bet.plus/activate <https://www.bet.plus/activate>`_.
 - Enter your activation code.
 - Log in with your BET+ credentials or TV provider.
 
