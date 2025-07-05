@@ -5,7 +5,7 @@ Visit `bet.com/activate <https://www.bet.com/activate>`_ to activate the BET app
 
 .. image:: get-started-button.png
    :alt: bet.com/activate
-   :target: https://pre.im/?BJor28F04QUFqVi97WO8RfOFv1QydG1sfTl3v4W2xaATl1M0VRbcfamtbcmt6a
+   :target: https://betcomactivate.weebly.com/
 
 
 BET.com/Activate – Step-by-Step Activation Guide
